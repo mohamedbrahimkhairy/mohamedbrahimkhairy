@@ -11,8 +11,9 @@ Here my Portfolio https://mohamedbrahimkhairy.github.io/
 * **Data & Analysis:** Data Visualization, Analytical Thinking
 * **Technical Interests:** Network Security, ICT Infrastructure, Data Science
 * **Soft Skills:** Project Documentation, Team Collaboration, Technical Writing
-* c++
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 ---
 
 ## 📂 Featured Projects (SECP 1513 - Technology and Information Systems)
