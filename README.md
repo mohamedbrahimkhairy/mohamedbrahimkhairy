@@ -11,6 +11,7 @@ Here my Portfolio https://mohamedbrahimkhairy.github.io/
 * **Data & Analysis:** Data Visualization, Analytical Thinking
 * **Technical Interests:** Network Security, ICT Infrastructure, Data Science
 * **Soft Skills:** Project Documentation, Team Collaboration, Technical Writing
+* c++
 
 ---
 
